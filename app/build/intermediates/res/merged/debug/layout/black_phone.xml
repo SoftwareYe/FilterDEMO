@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    android:orientation="vertical">
+
+    <me.xiaopan.switchbutton.SwitchButton
+        style="@style/item"
+        android:id="@+id/open_or_not"
+        android:text="点击开启"
+        android:checked="false"
+        android:background="@drawable/selector_preference_single"
+        app:withTextInterval="16dp"
+        app:frameDrawable="@drawable/switch_frame"
+        app:stateDrawable="@drawable/selector_switch_state"
+        app:stateMaskDrawable="@drawable/switch_state_mask"
+        app:sliderDrawable="@drawable/selector_switch_slider"/>
+
+    <Button
+        style="@style/buttonItem"
+        android:id="@+id/add_phone"
+        android:text="添加黑名单"
+        android:textSize="16sp"
+        android:background="@drawable/selector_preference_single"
+        android:gravity="left|center"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+
+
+</LinearLayout>

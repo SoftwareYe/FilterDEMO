@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/switch_frame.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/switch_frame.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/preference_footer_selected.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/preference_footer_selected.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/preference_center_normal.9.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/preference_center_normal.9.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/preference_header_pressed.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/preference_header_pressed.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/preference_single_selected.9.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/preference_single_selected.9.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/switch_slider_normal.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/switch_slider_normal.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/switch_slider_disable.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/switch_slider_disable.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/preference_center_selected.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/preference_center_selected.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/switch_state_normal.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/switch_state_normal.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/preference_header_selected.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/preference_header_selected.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/switch_state_mask.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/switch_state_mask.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/preference_footer_pressed.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/preference_footer_pressed.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/switch_state_disable.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/switch_state_disable.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/preference_single_pressed.9.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/preference_single_pressed.9.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/preference_center_pressed.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/preference_center_pressed.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/preference_single_normal.9.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/preference_single_normal.9.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/preference_footer_normal.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/preference_footer_normal.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/preference_header_normal.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-xhdpi/preference_header_normal.png"
+    }
+]

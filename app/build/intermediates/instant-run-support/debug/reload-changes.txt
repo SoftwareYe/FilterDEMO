@@ -1,0 +1,4 @@
+CHANGED,/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/flamingo/filterdemo/demo/MainActivity$1$override.class
+CHANGED,/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/flamingo/filterdemo/demo/MainActivity$override.class
+CHANGED,/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/flamingo/filterdemo/demo/MainActivity$2$override.class

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/actionbar_add_icon.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-hdpi/actionbar_add_icon.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_icon1.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-hdpi/add_icon1.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/actionbar_icon.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-hdpi/actionbar_icon.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/actionbar_more_icon.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-hdpi/actionbar_more_icon.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tabline.9.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-hdpi/tabline.9.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_phone.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-hdpi/icon_phone.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_icon.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-hdpi/add_icon.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/actionbar_search_icon.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-hdpi/actionbar_search_icon.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/top_left_bg.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable-hdpi/top_left_bg.png"
+    }
+]

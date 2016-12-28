@@ -1,0 +1,11 @@
+int attr frameDrawable 0x7f010000
+int attr sliderDrawable 0x7f010003
+int attr stateDrawable 0x7f010001
+int attr stateMaskDrawable 0x7f010002
+int attr withTextInterval 0x7f010004
+int[] styleable SwitchButton { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004 }
+int styleable SwitchButton_frameDrawable 0
+int styleable SwitchButton_sliderDrawable 3
+int styleable SwitchButton_stateDrawable 1
+int styleable SwitchButton_stateMaskDrawable 2
+int styleable SwitchButton_withTextInterval 4

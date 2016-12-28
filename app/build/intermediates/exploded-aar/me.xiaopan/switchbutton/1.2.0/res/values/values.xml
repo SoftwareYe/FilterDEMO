@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwitchButton"><attr format="reference|color" name="frameDrawable"/><attr format="reference|color" name="stateDrawable"/><attr format="reference|color" name="stateMaskDrawable"/><attr format="reference|color" name="sliderDrawable"/><attr format="dimension" name="withTextInterval"/></declare-styleable>
+</resources>

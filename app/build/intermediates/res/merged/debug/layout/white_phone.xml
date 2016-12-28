@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginTop="20dp"
+    android:orientation="vertical">
+
+    <me.xiaopan.switchbutton.SwitchButton
+        style="@style/item"
+        android:id="@+id/open_or_not"
+        android:text="点击开启"
+        android:checked="false"
+        android:background="@drawable/selector_preference_single"
+        app:withTextInterval="16dp"
+        app:frameDrawable="@drawable/switch_frame"
+        app:stateDrawable="@drawable/selector_switch_state"
+        app:stateMaskDrawable="@drawable/switch_state_mask"
+        app:sliderDrawable="@drawable/selector_switch_slider"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+
+
+
+</LinearLayout>

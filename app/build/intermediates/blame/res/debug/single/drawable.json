@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable/button.xml",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/exploded-aar/me.drakeet.materialdialog/library/1.3.1/res/drawable/button.xml"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable/selector_preference_header.xml",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable/selector_preference_header.xml"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable/selector_preference_complete.xml",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable/selector_preference_complete.xml"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable/app_notify_icon.png",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable/app_notify_icon.png"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable/selector_preference_center.xml",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable/selector_preference_center.xml"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable/material_card.xml",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/exploded-aar/me.drakeet.materialdialog/library/1.3.1/res/drawable/material_card.xml"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable/material_dialog_window.xml",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/exploded-aar/me.drakeet.materialdialog/library/1.3.1/res/drawable/material_dialog_window.xml"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable/bg_button_pressed.xml",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/exploded-aar/me.drakeet.materialdialog/library/1.3.1/res/drawable/bg_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable/bg_button_normal.xml",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/exploded-aar/me.drakeet.materialdialog/library/1.3.1/res/drawable/bg_button_normal.xml"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable/selector_switch_state.xml",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable/selector_switch_state.xml"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable/button_style.xml",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable/button_style.xml"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable/selector_preference_footer.xml",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable/selector_preference_footer.xml"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable/selector_switch_slider.xml",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable/selector_switch_slider.xml"
+    },
+    {
+        "merged": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/build/intermediates/res/merged/debug/drawable/selector_preference_single.xml",
+        "source": "/Users/matrix/AndroidStudioProjects/FilterDEMO/app/src/main/res/drawable/selector_preference_single.xml"
+    }
+]
